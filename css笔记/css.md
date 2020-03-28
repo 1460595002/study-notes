@@ -29,8 +29,7 @@ CSS：表现（美化网页）
 
 
 
-![QQ图片20200322213647](C:\Users\Administrator\Desktop\css\imges\QQ图片20200322213647.png)
-
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0328/134153_2cb12669_6583981.png "屏幕截图.png")
 #### **1.2发展史**：
 
 css1.0
@@ -353,7 +352,7 @@ background-image: linear-gradient(0deg, #08AEEA 0%, #2AF598 100%);
 
 **4.1什么是盒子**
 
-![1111](C:\Users\Administrator\Desktop\css\imges\1111.png)
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0328/134237_a74191ea_6583981.png "屏幕截图.png")
 
 margin：外边距
 
