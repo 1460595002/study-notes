@@ -31,9 +31,9 @@
 
 [css笔记](https://gitee.com/jinronga/study-notes/blob/dev-gaochao/css%E7%AC%94%E8%AE%B0/css.md#) 
 
-[HTML笔记]( [https://gitee.com/jinronga/study-notes/blob/master/HTML%E7%AC%94%E8%AE%B0/HTML%E6%A0%87%E7%AD%BE.md](https://gitee.com/jinronga/study-notes/blob/master/HTML笔记/HTML标签.md) )
+[HTML标签.md](https://gitee.com/jinronga/study-notes/blob/master/HTML笔记/HTML标签.md)
 
-[Javascript笔记]( [https://gitee.com/jinronga/study-notes/blob/master/JavaScript%E7%AC%94%E8%AE%B0/javascript%E7%AC%94%E8%AE%B01.md](https://gitee.com/jinronga/study-notes/blob/master/JavaScript笔记/javascript笔记1.md) )
+[javascript笔记1.md](https://gitee.com/jinronga/study-notes/blob/master/JavaScript笔记/javascript笔记1.md)
 
 [javascript面向对象编程2.md](https://gitee.com/jinronga/study-notes/blob/master/JavaScript笔记/javascript面向对象编程2.md)
 
@@ -46,8 +46,6 @@
 [ [JSON.md](https://gitee.com/jinronga/study-notes/blob/master/JavaScript笔记/JSON.md) ]
 
 [jQuery学习.md](https://gitee.com/jinronga/study-notes/blob/master/JavaScript笔记/jQuery学习.md)
-
-
 
 ### 📚📝 JavaEE学习笔记
 
